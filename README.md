@@ -22,4 +22,6 @@ Cómo usar
 4. Cuando tengas todos los nombres, presiona "Sortear amigo".
 5. El nombre sorteado aparecerá en la sección de resultados.
 
+   ![Vista previa del proyecto](assets/amigo-secreto-review.png)
+
 Proyecto pensado como práctica para manipulación de DOM y eventos en JavaScript.
