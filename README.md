@@ -1,0 +1,25 @@
+Amigo Secreto
+
+Este es un proyecto web simple para gestionar un juego de *Amigo Secreto*.  
+Permite ingresar nombres de amigos, visualizarlos en una lista y sortear uno aleatoriamente.
+
+Características
+- Agregar nombres a una lista.
+- Evita nombres duplicados o vacíos.
+- Mostrar la lista de amigos en tiempo real.
+- Sortear un amigo aleatorio.
+- Interfaz simple y fácil de usar.
+
+Tecnologías utilizadas
+- HTML = Estructura de la página.
+- CSS =  Estilos y diseño visual.
+- JavaScript = Lógica de interacción y manipulación del DOM.
+
+Cómo usar
+1. Abre `index.html` en tu navegador.
+2. Escribe el nombre de un amigo en el campo de texto.
+3. Presiona el botón "Añadir" para agregarlo a la lista.
+4. Cuando tengas todos los nombres, presiona "Sortear amigo".
+5. El nombre sorteado aparecerá en la sección de resultados.
+
+Proyecto pensado como práctica para manipulación de DOM y eventos en JavaScript.
